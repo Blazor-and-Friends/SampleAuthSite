@@ -1,0 +1,1 @@
+An example project for using [AuthenticationServices](https://github.com/Blazor-and-Friends/AuthenticationServices)
